@@ -7,6 +7,9 @@
         </a>
     </h1>
 </div>
+<div align="center" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mspasiano&show_icons=true" />
+</div>
 
 <div align="center" >
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=mspasiano&column=7&no-bg=true&no-frame=true&theme=oldie" />
