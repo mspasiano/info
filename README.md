@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mspasiano&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false&point=none" width="870px"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=mspasiano&bg_color=none&color=000000&line=000000&hide_border=true&hide_title=false" width="870px"/>
 </div>
 
 <div align="center" width="100px">
