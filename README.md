@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" >
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mspasiano&column=7&no-bg=true&no-frame=true&theme=oldie" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mspasiano&theme=flat&margin-w=20&no-frame=true" />
 </div>
 
 <br>
